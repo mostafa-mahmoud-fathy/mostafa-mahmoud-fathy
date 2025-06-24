@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-mahmoud-fathy&show_icons=true&locale=en" alt="mostafa-mahmoud-fathy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-mahmoud-fathy&" alt="mostafa-mahmoud-fathy" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-mahmoud-fathy&show_icons=true&locale=en&layout=compact" alt="mostafa-mahmoud-fathy" /></p>
