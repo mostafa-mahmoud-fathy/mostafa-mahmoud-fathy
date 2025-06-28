@@ -9,7 +9,7 @@
         }
 
         .text {
-          width: 27ch;
+          width: 9ch;
           animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
@@ -34,7 +34,7 @@
       </style>
       <div class="wrapper">
         <div class="text">
-          Hi 👋, I'm Mostafa Mahmoud
+            Hi 👋, I'm Mostafa Mahmoud
         </div>
       </div>
   </div>
