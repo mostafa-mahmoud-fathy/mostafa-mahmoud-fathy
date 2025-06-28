@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mostafa Mahmoud</h1>
+<div align="center">
+ <a class="link" href="https://github.com/mostafa-mahmoud-fathy/mostafa-mahmoud-fathy/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-mahmoud-fathy&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-mahmoud-fathy" /> </p>
