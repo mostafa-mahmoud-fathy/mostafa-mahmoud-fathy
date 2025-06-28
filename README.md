@@ -1,4 +1,7 @@
 <div align="center">
+ <syle>
+  padding:0px;
+ </syle>
  <a class="link" href="https://github.com/mostafa-mahmoud-fathy/mostafa-mahmoud-fathy/main/header.svg">
   <img class="image" src="header.svg" alt="Click to see the source">
  </a>
